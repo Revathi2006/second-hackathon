@@ -6,3 +6,4 @@ transformers
 requests
 pyttsx3
 dotenv
+gunicorn
